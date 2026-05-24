@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://dream-quest-media-books-bf4cd3a2.zappy5.app
+https://example.com
 Explore Dream Quest Media Books, your destination for kindle book publishing excellence. Browse, discover, and buy direct from the author. Start your next great read today!
 
 ### Reading Experience
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/reading-experience
+https://example.com/reading-experience
 Dive into a curated reading experience powered by amazon kindle direct publishing. Every story is crafted to captivate — find your next obsession and read it your way, anywhere.
 
 ### About the Author
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/about
+https://example.com/about
 Get to know Joseph Christ, the visionary author behind Dream Quest Media Books. From amazon kindle self publishing to Barnes and Noble shelves, discover the journey that fuels every word.
 
 ### Contact
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/contact
+https://example.com/contact
 Have questions about kindle book publishing, book orders, or media inquiries? Contact Dream Quest Media Books directly and connect with the team behind the stories you love. We respond fast!
 
 ### Products
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/products
+https://example.com/products
 Our Products - Dream Quest Media Books
 
 ### Cart
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Dream Quest Media Books
 
 ### Category
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Dream Quest Media Books
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://dream-quest-media-books-bf4cd3a2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Publishing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://dream-quest-media-books-bf4cd3a2.zappy5.app/sitemap.xml
-- Robots: https://dream-quest-media-books-bf4cd3a2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://dream-quest-media-books-bf4cd3a2.zappy5.app/llms-full.txt
-- Products (JSON): https://dream-quest-media-books-bf4cd3a2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://dream-quest-media-books-bf4cd3a2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
