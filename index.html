@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "bf4cd3a2-30ce-44e6-8ba2-4fe0f0d0dfec";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">Skip to main content</a>
+<script>window.ZAPPY_WEBSITE_ID = "bf4cd3a2-30ce-44e6-8ba2-4fe0f0d0dfec";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">Skip to main content</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim" id="home-hero-section">
   <!-- Background Image -->
   <div class="home-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="Atmospheric fantasy reading scene: a warmly lit wooden desk covered with stacked leather-bound novels and hardcover books, a steaming cup of tea, scattered manuscript pages with handwritten notes, golden afternoon sunlight streaming through a tall window, dried botanical sprigs, a vintage inkwell, soft bokeh background of a cozy library with floor-to-ceiling bookshelves, warm amber and forest green tones, magical literary mood, editorial photography style" width="1200" height="800" src="/assets/site-home-hero-image-1.webp" alt="Cozy fantasy reading atmosphere with stacked books and warm golden light">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="Atmospheric fantasy reading scene: a warmly lit wooden desk covered with stacked leather-bound novels and hardcover books, a steaming cup of tea, scattered manuscript pages with handwritten notes, golden afternoon sunlight streaming through a tall window, dried botanical sprigs, a vintage inkwell, soft bokeh background of a cozy library with floor-to-ceiling bookshelves, warm amber and forest green tones, magical literary mood, editorial photography style" width="1200" height="800" src="/assets/site-home-hero-image-1.webp" alt="Cozy fantasy reading atmosphere with stacked books and warm golden light" data-hero-background="true" data-element-type="image" data-element-id="img-1779667084249-o9iqtmymg">
   </div>
 
   <!-- Scrim Overlay -->
@@ -877,18 +877,19 @@
       </div>
 
       <!-- Label -->
-      <span class="home-hero-label">Dream Quest Media Books</span>
+      <p><span class="home-hero-label" style="color: rgb(30, 30, 27) !important;">Dream Quest Media Books</span>
 
-      <!-- H1 -->
-      <h1 class="home-hero-h1">Where Every Page Opens a New World</h1>
+      
+      </p><!-- H1 --><h1 class="home-hero-h1" style="">Where Every Page Opens a New Adventure</h1>
 
       <!-- Subtitle -->
-      <h3 class="home-hero-subtitle">Step into immersive fantasy worlds filled with unforgettable characters — and connect directly with the author behind every story.</h3>
+      <h3 class="home-hero-subtitle" style="">Step into a world of imagination and learning with unforgettable characters and wonder behind every page. At Dream Quest Media Books, we believe every story should be a doorway to discovery and a peaceful path to sweet dreams. Turn the page, and let your family's next great adventure begin!
+</h3>
 
       <!-- CTAs -->
       <div class="home-hero-ctas">
-        <a href="/contact" class="home-hero-btn-primary">Inquire About Signed Editions</a>
-        <a href="/about" class="home-hero-btn-secondary">Meet the Author</a>
+        <a href="/contact" class="home-hero-btn-primary" data-element-type="button" data-element-id="btn-1779667084246-yl9leztik" data-native-element="true">Inquire About Signed Editions</a>
+        <a href="/about" class="home-hero-btn-secondary" style="color: rgb(30, 30, 27) !important;" data-element-type="button" data-element-id="btn-1779667084246-m7g76kq05" data-native-element="true">Meet the Author</a>
       </div>
     </div>
   </div>
